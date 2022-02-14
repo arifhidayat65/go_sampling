@@ -3,4 +3,4 @@
 
 running my apps
 
-``go run main 1/10```
+````go run main.go````
